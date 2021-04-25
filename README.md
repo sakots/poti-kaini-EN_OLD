@@ -1,5 +1,10 @@
 # POTI-board Kai Ni-EN
 
+## Change of Development Leader and Transfer of Repository
+
+Due to the fatigue and busy schedule of sakots, who has been leading the project, satopian's repository will be the main one. please treat me well.  
+[https://github.com/satopian/poti-kaini-EN](https://github.com/satopian/poti-kaini-EN)
+
 ![POTI-board Kai Ni](https://raw.githubusercontent.com/wiki/sakots/poti-kaini-EN/img/paintmode.png)
 
 This is a project to translate [POTI-board改二](https://github.com/satopian/poti-kaini/) into English.
